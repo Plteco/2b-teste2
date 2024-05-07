@@ -23,6 +23,8 @@ padding : 0;
 
 .container {
     height: 500vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
 }
 
 .container__botao {
