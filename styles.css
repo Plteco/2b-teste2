@@ -93,3 +93,7 @@ padding : 0;
         display: inline_block;
         margin-top: 1em;
     }
+
+    .container__descricao {
+        padding: 2em;
+    }
