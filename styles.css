@@ -143,4 +143,11 @@ padding : 0;
         margin: 5em 3em;
     }
     
+    .rodape__logo {
+         margin-bottom: 2em;
+    }
+
+    .lista__link a:hover {
+       color: var(--botao-azul);
+    }
     
